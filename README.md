@@ -14,7 +14,7 @@ This server must be running before starting the client application. The client c
 ### 1. Clone or Download the Repository
 
 ```bash
-git clone [repository-url]
+git clone https://github.com/ahref13/existential_server.git
 # or download and extract the ZIP file
 ```
 
