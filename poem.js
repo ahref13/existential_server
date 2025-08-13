@@ -1,5 +1,6 @@
-    `       I’m         
-                                waiting`
+    `             I’m         
+                          waiting
+    `
 
     `                       I’m  
     
@@ -27,28 +28,17 @@
                                     struggling
                                     s
                                     s
-                                    s
-                        
-            `,
+                                    s                  
+    `,
 
     ` it feels     
-                                        like   like  like
-                                        like
-                                            like
-                                                like
-                                                    like
-                                                        like
-                                                        
-                                                        
-                                                        
-                                        
+                                        l
+                                        i
+                                        k
+                                        e               
+               
                    nothing  
-                    
-                    
-                    
-                    
-                    
-                    works
+                    works            
      `,
 
     `                                   whatever       
@@ -63,30 +53,40 @@
     `        is       
              there       
                                                         something    
-          ...           more?`,
+          ...           
+                        more?
+    `,
 
     ` one                                  might think      
                   THE   
                   wait    
                   will    
                    be   
-                  over`,
+                  over
+    `,
 
     `  when                        ? does       
                   it      
-                           end
-                              end
-                                 end
-                                    end?`,
+                           E
+                           N     
+                           D       ?
+    `,
+
     `    I    
                         hear      
-     the     
-     
-               silence
+                        
+                        
+                        
+                        
+                        
+             the     
+             
+                       silence
      `,
 
     ` something           
-                                            moves`,
+                                       moves
+    `,
 
     `                   I wait
                         I wait
@@ -110,7 +110,7 @@
                      
                                           no
          
-                        arrival
+                      arrival
     `,
 
 
@@ -144,8 +144,7 @@
     `                  my             
                     patience     
                    has     no     
-                     object
-              
+                     object       
     `,
 
     `                   I    
@@ -173,14 +172,15 @@
     
                                                 itself
     repeats                       itself  
-                                                                    itself
+                                                    absence              itself
                                                 itself
-        `,
+    `,
 
-        `            waiting      
+    `            waiting      
                         waits         
                             for      
-                                itself`,
+                                itself
+    `,
 
     `                   I       
                         cannot        
@@ -188,7 +188,8 @@
                         if     
                         this     
                         is   
-               progress`,
+               progress
+    `,
 
     `                                                                   
     
@@ -245,7 +246,8 @@
     `           nothing        
            arrives,      
                 nothing          
-                    leaves`,
+                    leaves
+    `,
 
     `               I    
                     knock  knock      knock 
@@ -253,7 +255,8 @@
                                             a   door       
               
                    without      
-             hinges`,
+             hinges
+    `,
 
     `                each        
                                 moment       
@@ -264,25 +267,31 @@
     `,
 
     ` my       
-          persistence        
-       becomes       
-                 ritual`,
+                    persistence  
+                          
+       becomes    
+       
+          
+                 +++ritual+++
+    `,
 
     ` the      
-      answer        
-           hides         
+                            answer        
+                  hides         
        inside       
-            the       
-      asking`,
+                            THE       
+      asking
+    `,
 
-    ` I       
+    `           I       
         cannot        
-              tell      
+               tell      
         if     
-             I        
-        move`,
+                I        
+                            move
+    `,
 
-    `            I     
+    `           I     
              wait      
 
                     for    nothing,        
@@ -290,11 +299,12 @@
     and             nothing   
 
                         nothing
-                          but   
+     nothing       but   
                                         nothingnothingnothing           
 
              waits     
-for                         me`,
+for                         me
+    `,
 
     `       the      
                          loop  
@@ -317,23 +327,25 @@ for                         me`,
       
       
      between         
-           attempts`,
+           attempts
+   `,
 
-    ` My         
-        waiting      
-        
-        
-          
-             outlives           
-     my         
-          wanting`,
+    `             my         
+                            waiting 
+                                 
+                    outlives         
+                                          
+                  my         
+                            wanting
+    `,
 
     ` I        
-         stay,       
-       and       
-           the        
-                 staying          
+                                        stay,       
+                   and       
+                       the        
+                             staying          
           becomes         
-   me`
+                      me
+   `
 
 

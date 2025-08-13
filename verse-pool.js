@@ -1,70 +1,106 @@
 export const VERSES = [
-    `   I’m        waiting`,
-
-    `      I’m  
-            s 
-           still          
-          s      waiting`,
-
-    `nothing            
+    `             I’m         
+                          waiting
+    `,
+    `                       I’m  
+    
+              still    still      still       stillstillstillstill
+                    
+                      ...          
+                      waiting
+                      ...
+    `,
+    `   
+    
+    
+                
+                nothing            
                
                
-               comes`,
-
-    ` I’m   
-                        s
-                        s
-                        struggling
-                        s
-                        s
-                        s
-            
-            `,
-
-    `     it feels     
-      like   like  like
-                   nothing   
-         works`,
-
-    `     whatever       
-             I 
-             I
-             I       
+               
+                   
+                                
+    `,
+    `             I’m               s
+                                    s
+                                    struggling
+                                    s
+                                    s
+                                    s                  
+    `,
+    ` it feels     
+                                        l
+                                        i
+                                        k
+                                        e               
+               
+                   nothing  
+                    works            
+    `,
+    `                                   whatever       
+                         I 
+                         I
+                         I       
+                            
+                            
                         try
     `,
-
-    ` is       
+    `        is       
              there       
-      something    
-          ...        more?`,
-
-    ` one might think      
-               THE   
+                                                        something    
+          ...           
+                        more?
+    `,
+    ` one                                  might think      
+                  THE   
                   wait    
-          will    
-                  be   
-    over`,
-
-    `  when     does       
-                  it      end?`,
-
+                  will    
+                   be   
+                  over
+    `,
+    `  when                        ? does       
+                  it      
+                           E
+                           N     
+                           D       ?
+    `,
     `    I    
-            hear      
-     the     
-               silence`,
-
+                        hear      
+                        
+                        
+                        
+                        
+                        
+             the     
+             
+                        silence
+    `,
     ` something           
-                moves`,
-
-    ` I wait`,
-
+                                       moves
+    `,
+    `                   I wait
+                        I wait
+                        I wait
+                        I wait
+                        I wait
+                        I wait
+                        I wait   I wait
+                                        
+                                        I wait
+                                        
+                                                I wait
+              I wait     
+                            I wait
+                            I wait
+                            I wait                 
+    `,
     ` I      
-                    walk     toward   no    
+                                    walk     towards       
                      
+                                          no
          
-            arrival`,
-
-
+                      arrival
+    `,
     ` waiting          
                    b
                       e   
@@ -76,9 +112,8 @@ export const VERSES = [
              
               
        me   I 
-                myself`,
-
-
+                                                    myself
+    `,
     `  I   
                 I
                                  I
@@ -90,116 +125,143 @@ export const VERSES = [
                                      have      
                                                         always         
                                 been  
-                                                                    here`,
-    `              my         
-                             
+                                                                    here
+     `,
+    `                  my             
                     patience     
-                                  has     no     
-                   object
-              
-              `,
-
-    ` I    
-wait     
+                   has     no     
+                     object       
+    `,
+    `                   I    
+                       wait     
            
-          to   
-                                see       
-                 if     
-                     waiting       
-                            ends`,
-
-    ` the     wait becomes      
-the       
-         world`,
-
-    ` absence repeats      itself
-    itself  
-                    itself
-          itself`,
-
-    ` waiting      
-        waits         
-             for      
-        itself`,
-
-    ` I       
-        cannot        
-     tell      
-          if     
-               this     
-         is   
-               progress`,
-
-    ` nothing     
-       changes,        
-                yet      
-     it       
-           changes       
-       me`,
-
+                       to   
+                       see                                                   
+                       if     
+                                        waiting       
+                                                            .ends.
+     `,
+    `                      the     
+                       wait                 becomes      
+                       the       
+                      world
+                       the
+                      world                 becomes                   
+                       the 
+                       wait
+    `,
+    `                           absence   
+    
+    
+                                                itself
+    repeats                       itself  
+                                                    absence              itself
+                                                itself
+    `,
+    `            waiting      
+                        waits         
+                            for      
+                                itself
+    `,
+    `                   I       
+                        cannot        
+                        tell      
+                        if     
+                        this     
+                        is   
+               progress
+    `,
+    `                                                                   
+    
+    
+                                                        nothing     
+    
+    
+    
+                        changes,        
+                        yet      
+                        it       
+                        changes       
+                        me
+    `,
     ` I     
-         return      
-                 to       
+                                               return  return    return      
+                        to       
         where      
      I       
-          never       
-               left`,
-
-    ` I     
-         confuse        
+                                    never       
+               left
+    `,
+    `                                           I     
+                    confuse        
        the      
-                signal          
-           with       
-       the    
-           noise`,
-
-    `the      
-         end      
-            waits        
-        at     
-             the         
-     beginning`,
-
-    `nothing        
-            arrives,      
-      nothing          
-                leaves`,
-
-    ` I    
-         knock       
-       on     
-              a        
-         door       
+                                    signal          
+           
+           with    
+              
+                        the    
+                zz 
+                       zzzz              z
+                        noise
+                 zzzzz    zzzzzz    zz
+                    z    zz  z  zz z  
+          zzzzzz
+                     zz
+                                zzzzzzzzzzzz
+   `,
+    `                  
+        
+                            the      
+                                end      
+            
+                                                   waits        
+            at     
+                            the         
+                                beginning
+   `,
+   `           nothing        
+           arrives,      
+                nothing          
+                    leaves
+   `,
+   `               I    
+                    knock  knock      knock 
+           on     
+                                            a   door       
+              
                    without      
-             hinges`,
-
-    ` each        
-         moment       
-    is      
-             the     
-      same        
-          moment`,
-
+             hinges
+   `,
+    `                each        
+                                moment       
+        is the     
+                      
+                     same        
+                                moment
+    `,
     ` my       
-          persistence        
-       becomes       
-                 ritual`,
-
+                    persistence  
+                          
+       becomes    
+       
+          
+                 +++ritual+++
+    `,
     ` the      
-      answer        
-           hides         
+                            answer        
+                  hides         
        inside       
-            the       
-      asking`,
-
-    ` I       
+                            THE       
+      asking
+    `,
+    `           I       
         cannot        
-              tell      
+               tell      
         if     
-             I        
-        move`,
-
-        `            I     
+                I        
+                            move
+    `,
+    `           I     
              wait      
 
                     for    nothing,        
@@ -207,12 +269,12 @@ the
     and             nothing   
 
                         nothing
-                          but   
+     nothing       but   
                                         nothingnothingnothing           
 
              waits     
-for                         me`,
-
+for                         me
+    `,
     `       the      
                          loop  
                     loop      loop
@@ -221,8 +283,8 @@ for                         me`,
                          loop      
                             swallows         
                 my       
-                      intention`,
-
+                      intention
+    `,
     ` I
     
     
@@ -234,24 +296,24 @@ for                         me`,
       
       
      between         
-           attempts`,
-
-    ` My         
-        waiting      
-        
-        
-          
-             outlives           
-     my         
-          wanting`,
-
+           attempts
+   `,
+    `             my         
+                            waiting 
+                                 
+                    outlives         
+                                          
+                  my         
+                            wanting
+    `,
     ` I        
-         stay,       
-       and       
-           the        
-                 staying          
+                                        stay,       
+                   and       
+                       the        
+                             staying          
           becomes         
-   me`
+                      me
+   `
 ];
 
 
